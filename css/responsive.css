@@ -1,0 +1,563 @@
+@media only screen and (min-width:992px) and (max-width:1220px) {
+    .testimonial_section .about_content .layer_content .section_title h2 {
+        font-weight: 300;
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .rating-1 {
+        padding: 25px;
+    }
+}
+
+@media all and (max-width: 991px) {
+    .testimonial_section .about_content {
+        padding-right: 15px !important;
+    }
+    .testimonial_section .about_content .background_layer {
+        width: 200% !important;
+    }
+    .testimonial_section .testimonial_box {
+        margin-top: 0 !important;
+    }
+    .testimonial_section .testimonial_box .background_layer {
+        width: 200% !important;
+        margin-left: -200px;
+    }
+    .testimonial_section .testimonial_box .about_content {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+        margin-top: 28% !important;
+    }
+    .testimonial_section .testimonial_box .testimonial_container {
+        margin-left: -15px !important;
+    }
+    .testimonial_section .testimonial_box .testimonial_container .testimonials {
+        margin: 0px 0 20px 0 !important;
+        padding: 0 0px 72px 50px !important;
+    }
+    .testimonial_section .testimonial_box .testimonial_container .testimonials .testimonial_content {
+        margin-left: -36px !important;
+        margin-top: 0 !important;
+    }
+    .testimonial_section .testimonial_box .testimonial_container .testimonials .images_box {
+        display: none;
+    }
+    .testimonial_section .testimonial_box .testimonial_container .owl-nav .owl-prev,
+    .testimonial_section .testimonial_box .testimonial_container .owl-nav .owl-next {
+        top: 23px;
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:992px) {
+    ul.slimmenu li a {
+        padding: 10px 5px;
+    }
+    section.home-video-sec p,
+    section.photo-gallery-sec p,
+    .deliverable-section p,
+    section.photos-page-sec p,
+    section.videos-page-sec p,
+    .home-wed-story-sec p.topp {
+        padding: 0px 50px;
+    }
+    section.photo-gallery-sec h2,
+    .testimonial-section h2,
+    .service-content-block h2,
+    .deliverable-section h2,
+    .address-section h2,
+    section.videos-page-sec h2,
+    .home-wed-story-sec h2 {
+        font-size: 55px;
+    }
+    .footer_block-1.address .tbl-cell i,
+    .footer-contacts .tbl-cell i {
+        font-size: 10px;
+        width: 22px;
+        height: 22px;
+        line-height: 20px;
+    }
+    .footer-contacts .tbl-cell {
+        padding: 10px 5px 10px 0;
+    }
+    .footer_block-1.address .tbl-cell p,
+    .footer-contacts .tbl-cell p {
+        margin: 0;
+        font-size: 12px;
+    }
+    .rating-1 {
+        padding: 40px 2px;
+    }
+    .add-blocks {
+        padding: 75px 2px 30px;
+    }
+}
+
+@media (max-width:768px) {
+    .pub-block {
+        text-align: center;
+    }
+    .about-me-content {
+        padding: 20px;
+    }
+    .about-me-content h4 {
+        font-size: 24px;
+    }
+    .wedding-story-section h2,
+    .wedding-story-section h2 span:nth-child(2),
+    .wedding-story-section h2 span {
+        font-size: 30px;
+    }
+    .ph {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (min-width:581px) and (max-width:767px) {
+    section.home-video-sec p,
+    section.photo-gallery-sec p,
+    .deliverable-section p,
+    section.photos-page-sec p,
+    section.videos-page-sec p,
+    .home-wed-story-sec p.topp {
+        padding: 0px 30px;
+    }
+    section.photo-gallery-sec h2,
+    .testimonial-section h2,
+    .service-content-block h2,
+    .deliverable-section h2,
+    .address-section h2,
+    section.home-video-sec h2,
+    .about-section h2,
+    .published-work-section h2,
+    .team-section h2,
+    .photos-page-sec h2,
+    section.videos-page-sec h2,
+    .home-wed-story-sec h2 {
+        font-size: 40px;
+    }
+    .photo-gallery-container .col-md-4.col-xs-12.col-sm-4 {
+        width: 50%;
+    }
+    section#counter .col-md-3.col-xs-12.col-sm-3 {
+        width: 50%;
+    }
+    .video-container .col-md-6.col-xs-12.col-sm-6.video-block {
+        width: 50%;
+    }
+    .testimonial {
+        margin: 0;
+    }
+    section.footer .col-md-3.col-xs-12.col-sm-3 {
+        width: 50%;
+    }
+    .rating-1 {
+        padding: 40px 0px;
+    }
+    section#counter .col-md-3.col-xs-12.col-sm-3 {
+        width: 25%;
+    }
+    .count-title h2 {
+        font-size: 34px;
+    }
+    .count-title>span {
+        font-size: 16px;
+    }
+    ul.slimmenu li a {
+        font-size: 12px;
+        padding: 10px 0px;
+    }
+    .photos-gage-container .col-md-3.col-lg-3.col-sm-6.col-xs-12.col-pad {
+        width: 50%;
+    }
+    .owner-image {
+        float: none;
+        margin: 0 auto 20px;
+        text-align: center;
+    }
+    .wedding-story-section h2,
+    .wedding-story-section h2 span:nth-child(2),
+    .wedding-story-section h2 span {
+        font-size: 25px;
+    }
+    .faq-bl.ock ul {
+        padding: 0;
+    }
+}
+
+@media (max-width:580px) {
+    section.home-video-sec p,
+    section.photo-gallery-sec p,
+    .deliverable-section p,
+    section.videos-page-sec p,
+    .home-wed-story-sec p.topp {
+        padding: 0px 30px;
+    }
+    section.photo-gallery-sec h2,
+    .testimonial-section h2,
+    .service-content-block h2,
+    .deliverable-section h2,
+    .address-section h2,
+    section.home-video-sec h2,
+    .about-section h2,
+    .published-work-section h2,
+    .team-section h2,
+    .photos-page-sec h2,
+    section.videos-page-sec h2,
+    .home-wed-story-sec h2 {
+        font-size: 40px;
+    }
+    .photo-gallery-container .col-md-4.col-xs-12.col-sm-4 {
+        width: 50%;
+    }
+    section#counter .col-md-3.col-xs-12.col-sm-3 {
+        width: 50%;
+    }
+    .testimonial {
+        margin: 0;
+    }
+    section.footer .col-md-3.col-xs-12.col-sm-3 {
+        width: 50%;
+    }
+    .pub-block {
+        text-align: center;
+    }
+    .owner-image {
+        float: none;
+        margin: 0 auto 20px;
+        text-align: center;
+    }
+    .about-me-content {
+        padding: 60px 40px;
+    }
+    #myModal .modal-content {
+        padding: 15px 10px;
+    }
+    .modal-header .close {
+        margin-top: -21px;
+    }
+    .pub-block {
+        text-align: center;
+    }
+    .service-banner-wrapper-inner {
+        width: 90%;
+    }
+    .service-banner-wrapper-inner h2 {
+        font-size: 35px;
+    }
+    .service-banner-wrapper-inner p {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .service-blocks-1 h3 span {
+        font-size: 20px;
+    }
+    .service-blocks-1 h3 {
+        font-size: 22px;
+        line-height: 25px;
+        margin: 0 0 10px 0
+    }
+    .service-blocks-1 p {
+        font-size: 14px;
+        text-align: left;
+    }
+    .service-blocks-1 ul li {
+        list-style-type: none;
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .service-content-block {
+        padding: 40px 0;
+    }
+    section.photos-page-sec p {
+        padding: 0px 0;
+    }
+    ul.slimmenu.collapsed li>ul {
+        position: static;
+        display: block !important;
+        padding-left: 0;
+    }
+    ul.slimmenu li>ul {
+        box-shadow: none;
+    }
+    a#return-to-top {
+        display: none !important;
+    }
+    .photos-gage-container .photo-row,
+    .photos-gage-container.trendi-row .photo-row,
+    .photos-gage-container .photo-row.trendi-row {
+        column-count: 1;
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+    }
+    .wedding-story-section h2,
+    .wedding-story-section h2 span:nth-child(2),
+    .wedding-story-section h2 span {
+        font-size: 25px;
+    }
+    .owl-carousel.owl-theme.wed-slider-owl .owl-prev {
+        left: 0;
+    }
+    .owl-carousel.owl-theme.wed-slider-owl .owl-next {
+        right: 0;
+    }
+    .testimonial_section .about_content {
+        padding-right: 0 !important;
+        padding-bottom: 0;
+    }
+    .testimonial_section .testimonial_box .testimonial_container .testimonials {
+        margin: 0 !important;
+        padding: 0 0px 0 50px !important;
+    }
+    .muddy-partner-sec {
+        padding: 0 0 40px 0;
+    }
+    .home-wed-story-sec.wed-story-thumb {
+        padding: 160px 0 40px;
+    }
+    .carousel .carousel-inner .bg {
+        background-size: cover;
+        background-attachment: scroll;
+    }
+    .carousel-caption {
+        display: none;
+    }
+}
+
+@media (max-width:480px) {
+    section.home-video-sec p,
+    section.photo-gallery-sec p,
+    .deliverable-section p,
+    .home-wed-story-sec p.topp {
+        padding: 0
+    }
+    .content-wrapper {
+        width: 90%;
+        display: none;
+    }
+    .showcase-content {
+        width: 80%;
+    }
+    #return-to-top {
+        display: none !important;
+    }
+    .bgimg-1 {
+        background-attachment: unset;
+        /* margin-top: 138px;  */
+        background-size: cover;
+        min-height: 54%;
+        background-position: right center;
+    }
+    .home-video-sec {
+        padding: 40px 0;
+    }
+    .content-inner-wrap {
+        padding: 30px 15px;
+    }
+    .content-inner-wrap h3 {
+        font-size: 22px;
+    }
+    .content-inner-wrap span {
+        font-size: 13px;
+    }
+    .know-more-btn {
+        padding: 8px 20px;
+        font-size: 14px;
+    }
+    section.home-video-sec h2,
+    .about-section h2,
+    .published-work-section h2,
+    .team-section h2,
+    section.photo-gallery-sec h2,
+    .testimonial-section h2,
+    .service-content-block h2,
+    .deliverable-section h2,
+    .address-section h2,
+    .faq-section h2,
+    .home-wed-story-sec h2 {
+        font-size: 25px;
+        padding: 0 0 15px 0;
+        margin: 0 0 40px 0;
+    }
+    .showcase-content h3 {
+        font-size: 22px;
+    }
+    .video-container {
+        width: 100%;
+    }
+    .rating-section {
+        padding: 40px 0;
+        overflow: hidden;
+    }
+    .testimonial {
+        margin: 50px 0 0;
+    }
+    .testimonial .description {
+        padding: 18px 6px;
+        margin-bottom: 80px;
+        font-size: 14px;
+        line-height: 25px;
+        font-weight: 600;
+    }
+    .testimonial .title {
+        font-size: 15px
+    }
+    div#testimonial-slider.owl-theme .owl-controls {
+        margin-top: 75px;
+    }
+    .footer-wrap1 h3 {
+        font-size: 18px;
+    }
+    .footer {
+        padding: 40px 0;
+    }
+    ul.slimmenu {
+        /* background-color: #FF9800; */
+    }
+    section#counter .col-md-3.col-xs-12.col-sm-3,
+    .photo-gallery-container .col-md-4.col-xs-12.col-sm-4,
+    section.footer .col-md-3.col-xs-12.col-sm-3 {
+        width: 100%;
+    }
+    .service-blocks-1 ul {
+        margin: 0;
+        padding: 0;
+    }
+    .deliverable-section {
+        padding: 0 15px;
+    }
+    .phone-details h3 a {
+        font-size: 32px;
+    }
+    .phone-details {
+        padding: 50px 0;
+    }
+    .maps,
+    .calling {
+        width: 100%;
+    }
+    .widget.contact-widget h3 {
+        margin: 0 0 80px 0;
+        font-size: 28px;
+    }
+    .review-section a {
+        color: #fff;
+        font-size: 20px;
+    }
+    .mud-btns {
+        display: none;
+    }
+    .parallax {
+        /* background-image: url(../images/banner-img3.jpg); */
+        height: 100%;
+        background-attachment: initial;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    nav {
+        width: 15%;
+        float: right;
+    }
+    ul.slimmenu {
+        width: 100%;
+        padding: 0 0 20px;
+        position: absolute;
+        left: 0;
+        background-color: #fff;
+        border-bottom: 1px solid #ccc;
+        -webkit-box-shadow: 0 10px 12px rgba(0, 0, 0, .175);
+        box-shadow: 0 10px 12px rgba(0, 0, 0, .175);
+    }
+    ul.slimmenu li:last-child a {
+        /* border-bottom:0; */
+    }
+    ul.slimmenu li.has-submenu ul li:last-child a {
+        /* border-bottom: 1px solid !important; */
+    }
+    .review-inner {
+        width: 88%;
+        margin: auto;
+        padding: 30px;
+    }
+    .box {
+        position: relative;
+        box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.2);
+        height: 150px;
+        width: 100% !important;
+    }
+    .phone-details h3 {
+        margin: 50px 0 0;
+    }
+    .partner-block img {
+        padding: 2px;
+        margin: 0;
+        width: 128px;
+        max-width: 92px;
+    }
+    .log-in-wrap {
+        padding: 30px;
+        max-width: none;
+        width: 90%;
+    }
+    section#counter .row {
+        flex-direction: column;
+        -webkit-flex-direction: column;
+        -moz-flex-direction: column;
+        -ms-flex-direction: column;
+    }
+    .testimonial_section .about_content .layer_content .section_title h2 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .col-md-6.video-block,
+    .col-md-4.col-pad {
+        padding: 8px 15px;
+    }
+    .photos-page-sec-image_box {
+        margin-bottom: 8px;
+    }
+    .port-block-story {
+        margin-bottom: 15px;
+    }
+    .wed-story-thumb .wed-wrap {
+        margin: 0 0 20px 0;
+    }
+    .content-details h3 {
+        font-size: 16px;
+    }
+    .content .content-overlay,
+    .content-details {
+        opacity: 1;
+    }
+    .fadeIn-left {
+        left: 50%;
+    }
+    .story-slider-sec {
+        padding: 40px 0;
+    }
+    .videos-page-sec .col-md-6.videos-page-sec-video-block {
+        padding: 8px 15px;
+    }
+}
+
+@media only screen and (min-width:1500px) and (max-width:5000px) {
+    .map-section {
+        width: 1170px;
+        margin: auto;
+        float: none;
+    }
+    .about-block-2 {
+        background-size: cover;
+    }
+    .photos-gage-container .photo-row.trendi-row {
+        column-count: 5;
+        -webkit-column-count: 5;
+        -moz-column-count: 5;
+    }
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 480px) and (orientation: landscape) {
+    .content-wrapper {
+        display: none;
+    }
+}
